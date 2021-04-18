@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Isaac. Just another guy living life by writing one line of code at a time.
+### Hi there 👋, I'm Isaac. I live life by writing one line of code at a time, a couple of designs here and there 😀
 
 - 🔭 I’m currently working on a Note Keeping Android app
 - 🌱 I’m currently learning Kotlin
