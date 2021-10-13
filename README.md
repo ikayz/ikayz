@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Isaac. I live life by writing one line of code at a time, a couple of designs here and there 😀
 
-- 🔭 I’m currently working on a Note Keeping Android app
+- 🔭 I’m currently participating in the Google Africa Developer Scholarship 2021 with Pluralsight and Andela
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on Kotlin Android and React Native projects
 - 🤔 I’m looking for help with Data Binding in Android
