@@ -2,7 +2,7 @@
 # 💫 Hi, I'm Isaac Miti
 💻 An ardent front-end developer hailing from Zambia. I am currently working professionally as a Digital Designer.<br><br>🔭 I’m currently working on becoming a full-stack developer.<be>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
-👯 I’m looking to collaborate on JavaScript and Android<br>🤝 I’m looking for help with the backend<br>🌱 I’m currently learning SQL<br>💬 Ask me about CSS, Design and beautiful-looking UIs<br>⚡ Fun fact: I love RPGs and Fortnite
+👯 I’m looking to collaborate on JavaScript and Android<br>🤝 I’m looking for help with the backend<br>🌱 I’m currently learning full-stack development<br>💬 Ask me about CSS, Design and beautiful-looking UIs<br>⚡ Fun fact: I love RPGs and Fortnite
 
 
 ## 🌐 Socials:
